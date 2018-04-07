@@ -211,9 +211,9 @@ iframe {
 }
 
 .login100-form-logo {
-  font-size: 30px;   /* is where the logo will be*/    /*its only show
+  /*font-size: 30px;  */ /* is where the logo will be*/    /*its only show
   color: #333333;  
-
+*/
   /*display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
